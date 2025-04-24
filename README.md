@@ -1,4 +1,4 @@
-# MlogAssertions
+# Launch pads logic
 
 Provides custom mlog instructions for launch pads/landing pads.
 
